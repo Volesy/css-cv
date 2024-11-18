@@ -16,6 +16,8 @@ body {
     font: normal 16px 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
 }
 
+/*  */
+
 a {
     color: red;
     text-decoration: none;
@@ -58,7 +60,7 @@ a:visited{
     display: flex;
 }
 
-@media (max-width: 700px) {
+@media (max-width: 650px) {
     .info {
         text-align: center;
         display: block;
